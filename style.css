@@ -6,6 +6,25 @@
   background-color: rgba(128, 128, 128, 0.67);!important 
   
 }
+/* Target the header element */
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  width: 100%;
+}
+
+/* Target the navigation links */
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
 
 section{
   
